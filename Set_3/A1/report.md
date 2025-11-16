@@ -2,7 +2,7 @@
 
 ID посылки на Codeforces: 349177725
 
-Ссылка на репозиторий: https://github.com/Marlinpa/Algorithms/Set_3/A1
+Ссылка на репозиторий: [https://github.com/Marlinpa/Algorithms/Set_3/A1](https://github.com/Marlinpa/Algorithms/edit/main/Set_3/A1)
 
 - `a1.cpp` - решение поставленной задачи из условия
 - `data_1.txt` - данные вычисления площади способом, где прямоугольник широкий
